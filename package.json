@@ -1,0 +1,26 @@
+{
+    "name": "publish_first_callback_npm_package",
+    "version": "1.0.0",
+    "description": "This Package Contains a samoll ",
+    "main": "callback.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/alihussnain09/NPM-Package.git"
+    },
+    "keywords": [
+      "#callback",
+      "#npm",
+      "#package",
+      "#npmregistry",
+      "#version"
+    ],
+    "author": "Ali Hussnain",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/alihussnain09/NPM-Package/issues"
+    },
+    "homepage": "https://github.com/alihussnain09/NPM-Package#readme"
+  }
